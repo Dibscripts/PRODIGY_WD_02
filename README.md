@@ -22,7 +22,7 @@ This is a basic stopwatch web application created using **HTML**, **CSS**, and *
 
 1. Clone this repository:
 
-   git clone https://github.com/Dibscripts/Task_02.git
+   git clone: https://github.com/Dibscripts/PRODIGY_WD_02.git
    
 2. Open the folder and double-click "index.html" to run it in your browser.
 
